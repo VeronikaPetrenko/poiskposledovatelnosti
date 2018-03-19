@@ -30,7 +30,9 @@
 *.exe
 *.out
 *.app
-include <iostream>
+//Вводится произвольная строка английских символов, надо найти последовательность abc.
+
+#include <iostream>
 #include <string>
 using namespace std;
 int N,a;
